@@ -3,18 +3,13 @@ If you want to add more package, please add package name to dependencies or devD
 
 After that execute below command line:
 
-````
-npm install
-````
+`npm install`
 
 Run for development:
 
-````
-npm start
-````
+`npm start`
 
 Run for production:
 
-````
-npm build
-````
+`npm build`
+
